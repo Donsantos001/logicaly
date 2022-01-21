@@ -1,0 +1,9 @@
+Total Number of Employees : 1
+
+ID :				1
+Employee Number :	E0123
+Full Name :			Sanni Habib
+Title :				Manager
+Department :		HR
+Phone Number :		0678989898
+Email Address :		sa.asa@logicaly.net
